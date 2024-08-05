@@ -1,12 +1,9 @@
-pyrogram==2.0.106
-pyrofork==2.2.11
-tgcrypto
 aiohttp
+pyrofork
 python-dotenv
+tgcrypto
 motor
 aiofiles
 dnspython
 requests
 jinja2
-Flask<= 3.0.0
-gunicorn<= 21.2.0
